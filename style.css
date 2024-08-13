@@ -32,7 +32,7 @@
 
 /* Header */
 .header {
-    background-image: url(../svg/bg.svg);
+    background-image: url(./svg/bg.svg);
     background-position: center bottom;
     background-size: cover;
     background-repeat: no-repeat;
